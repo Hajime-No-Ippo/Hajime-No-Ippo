@@ -1,9 +1,11 @@
-## Hi there 👋 This is Hajime-No-Ippo
+# Hi there 👋 This is Hajime-No-Ippo
+## Bio
 - 🔭 I'm studying Computer Science based in Ireland.
 - 🌱 I'm current learning JavaScript, React, Java21, Socket.io, Springboot, RESTapi, SQL language
 - 👯 I'm looking forward to find some side-project on full-stack application (Still Available)
 - 🤔 Learning RUST, Swift is on my wishing list
 - 💬 Ask me something about frontend developing if you want :)
+## Catch me
 - 📫 Email: shuaibtcm@gmail.com
 - 💼 Linkedin: www.linkedin.com/in/chenming-eric-tao
 - 👨‍💻 LeetCode: https://leetcode.com/u/DarGFFx9Sw/
