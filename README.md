@@ -1,4 +1,12 @@
 ## Hi there 👋
+- 🔭 I'm working as a Software Developer based in Ireland.
+- 🌱 I'm current learning JavaScript, React, Java21
+- 👯 I'm looking forward to find some side-project on full-stack application (Still Available)
+- 🤔 Learning RUST, Swift is on my wishing list
+- 💬 Ask me something about frontend developing if you want :)
+- 📫 Email: shuaibtcm@gmail.com
+- 💼 Linkedin: www.linkedin.com/in/chenming-eric-tao
+- 👨‍💻 LeetCode: https://leetcode.com/u/DarGFFx9Sw/
 
 <!--
 **Hajime-No-Ippo/Hajime-No-Ippo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
