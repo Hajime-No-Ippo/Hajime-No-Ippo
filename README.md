@@ -1,5 +1,5 @@
 ## Hi there 👋 This is Hajime-No-Ippo
-- 🔭 I'm working as a Software Developer based in Ireland.
+- 🔭 I'm studying Computer Science based in Ireland.
 - 🌱 I'm current learning JavaScript, React, Java21
 - 👯 I'm looking forward to find some side-project on full-stack application (Still Available)
 - 🤔 Learning RUST, Swift is on my wishing list
