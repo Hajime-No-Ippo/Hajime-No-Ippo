@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 This is Hajime-No-Ippo
 - 🔭 I'm working as a Software Developer based in Ireland.
 - 🌱 I'm current learning JavaScript, React, Java21
 - 👯 I'm looking forward to find some side-project on full-stack application (Still Available)
