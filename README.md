@@ -1,6 +1,6 @@
 ## Hi there 👋 This is Hajime-No-Ippo
 - 🔭 I'm studying Computer Science based in Ireland.
-- 🌱 I'm current learning JavaScript, React, Java21
+- 🌱 I'm current learning JavaScript, React, Java21, Socket.io, Springboot, RESTapi
 - 👯 I'm looking forward to find some side-project on full-stack application (Still Available)
 - 🤔 Learning RUST, Swift is on my wishing list
 - 💬 Ask me something about frontend developing if you want :)
