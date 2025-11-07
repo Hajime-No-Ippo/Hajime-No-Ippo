@@ -4,7 +4,7 @@
 - 🌱 I'm current learning JavaScript, React, Java21, Socket.io, Springboot, RESTapi, SQL language
 - 👯 I'm looking forward to find some side-project on full-stack application (Still Available)
 - 🤔 Learning RUST, Swift, Numpy, GenAI, Golang is on my wishing list
-- 💬 Ask me something about frontend developing if you want :)
+- 💬 We can talk something about frontend developing if you want :)
 ## Catch me
 - 📫 Email: shuaibtcm@gmail.com
 - 💼 Linkedin: www.linkedin.com/in/chenming-eric-tao
