@@ -5,7 +5,7 @@
 - 👯 I'm looking forward to find some side-project on full-stack application (Still Available)
 - 🤔 Learning RUST, Swift, Numpy, GenAI, Golang is on my wishing list
 - 💬 We can talk something about frontend developing if you want :)
-## Catch me
+## Contact me
 - 📫 Email: shuaibtcm@gmail.com
 - 💼 Linkedin: www.linkedin.com/in/chenming-eric-tao
 - 👨‍💻 LeetCode: https://leetcode.com/u/DarGFFx9Sw/
