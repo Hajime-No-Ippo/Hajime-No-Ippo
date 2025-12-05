@@ -1,5 +1,6 @@
 # Hi there 👋 This is Hajime-No-Ippo
 ## Bio
+- Don't be the slave of tech, manage and use them.
 - 🔭 I'm studying Computer Science based in Ireland.
 - 🌱 I'm current learning JavaScript, React, Java21, Socket.io, Springboot, RESTapi, SQL language
 - 👯 I'm looking forward to find some side-project on full-stack application (Still Available)
