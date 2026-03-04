@@ -1,3 +1,4 @@
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/erictao)
 # Hi there 👋 This is Hajime-No-Ippo
 ## Bio
 - 😇 Don't be the slave of tech, manage and use them.
