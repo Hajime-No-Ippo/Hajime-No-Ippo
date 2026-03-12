@@ -1,5 +1,6 @@
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/erictao)
 # Hi there 👋 This is Hajime-No-Ippo
+![](https://komarev.com/ghpvc/?username=hajime-no-ippo)
 ## Bio
 - 😇 Don't be the slave of tech, manage and use them.
 - 🔭 I'm studying Computer Science based in Ireland.
