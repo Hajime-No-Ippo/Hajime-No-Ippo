@@ -3,6 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=hajime-no-ippo)
 ## Bio
 - 😇 Don't be the slave of tech, manage and use them.
+- 👋 I want to be responsible for the code I write and building reliable system for people
 - 🔭 I'm studying Computer Science based in Ireland.
 - 🌱 I'm current learning JavaScript, React, Java21, Socket.io, Springboot, RESTapi, SQL language
 - 🤔 Learning RUST, Swift, Numpy, GenAI, Golang is on my wishing list
