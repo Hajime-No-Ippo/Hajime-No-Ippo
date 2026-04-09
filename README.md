@@ -7,7 +7,7 @@
 - 🔭 I'm studying Computer Science based in Ireland.
 - 🌱 I'm current learning JavaScript, React, Java21, Socket.io, Springboot, RESTapi, SQL language
 - 🤔 Learning RUST, Swift, Numpy, GenAI, Golang is on my wishing list
-- 💬 We can discuss something about speedy algorithm if you want :)
+- 💬 We can discuss something about speedy algorithm as solution if you want :)
 ## Contact me
 - 📫 Email: shuaibtcm@gmail.com
 - 💼 Linkedin: www.linkedin.com/in/chenming-eric-tao
