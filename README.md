@@ -1,5 +1,6 @@
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/erictao)
-# Hi there 👋 This is Hajime-No-Ippo
+# Hi there 👋 This is Hajime-No-Ippo 
+
 ![](https://komarev.com/ghpvc/?username=hajime-no-ippo)
 ## Bio
 - 😇 Don't be the slave of tech, manage and use them.
@@ -12,6 +13,10 @@
 - 📫 Email: shuaibtcm@gmail.com
 - 💼 Linkedin: www.linkedin.com/in/chenming-eric-tao
 - 👨‍💻 LeetCode: https://leetcode.com/u/DarGFFx9Sw/
+
+<div align="right">
+    <img width="58" height="52" alt="Temmie_overworld" src="https://github.com/user-attachments/assets/fac602ed-f97a-4efd-a5c4-5a355352ef66" />
+</div>
 
 <div align="center">
   <picture>
