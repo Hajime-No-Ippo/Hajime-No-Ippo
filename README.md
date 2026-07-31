@@ -29,13 +29,7 @@
 ```
 
 ![](https://komarev.com/ghpvc/?username=hajime-no-ippo)
-## Bio
-- 😇 Don't be the slave of tech, manage and use them.
-- 👋 I want to be responsible for the code I write and building reliable system for people
-- 🔭 I'm studying Computer Science based in Ireland BUT still traveling.
-- 🌱 I'm current learning JavaScript, React, Java21, Socket.io, Springboot, RESTapi, SQL language
-- 🤔 Learning RUST, Swift, Numpy, GenAI, Golang is on my wishing list
-- 💬 We can discuss something about speedy algorithm as solution if you want :)
+
 ## Contact me
 - 📫 Email: shuaibtcm@gmail.com
 - 💼 Linkedin: www.linkedin.com/in/chenming-eric-tao
