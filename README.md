@@ -5,7 +5,7 @@
 </a>
 
 
-# Hi there 👋 This is Hajime-No-Ippo 
+# Hi there 👋 This is Eric
 ```
                                                                                                     
                                                   
