@@ -1,4 +1,6 @@
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/erictao)
+<a href="https://ko-fi.com/erictao" target="_blank">
+  <img src="https://img.shields.io/badge/Ko--fi-Support%20Me-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support on Ko-fi" />
+</a>
 # Hi there 👋 This is Hajime-No-Ippo 
 ```
                                                                                                     
