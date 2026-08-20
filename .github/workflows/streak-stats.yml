@@ -18,7 +18,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Generate streak stats
-        uses: Hajime-No-Ippo/Hajime-No-Ippo@main
+        uses: Hajime-No-Ippo/github-activity-readme@main
         with:
           options: user=${{ github.repository_owner }}&theme=default&disable_animations=true
           path: profile/streak.svg
