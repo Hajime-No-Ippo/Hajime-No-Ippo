@@ -14,10 +14,6 @@
 - 💼 Linkedin: www.linkedin.com/in/chenming-eric-tao
 - 👨‍💻 LeetCode: https://leetcode.com/u/DarGFFx9Sw/
 
-<div align="right">
-    <img width="58" height="52" alt="Temmie_overworld" src="https://github.com/user-attachments/assets/fac602ed-f97a-4efd-a5c4-5a355352ef66" />
-</div>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
