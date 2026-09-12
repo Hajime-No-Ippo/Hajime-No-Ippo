@@ -5,7 +5,7 @@
 </a>
 
 
-# Hi there 👋 This is Eric
+# Hi 👋 I'm Eric
 
 New graduate in 2028
 
