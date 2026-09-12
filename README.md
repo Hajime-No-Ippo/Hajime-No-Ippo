@@ -7,28 +7,9 @@
 
 # Hi there 👋 This is Eric
 
-![](https://komarev.com/ghpvc/?username=hajime-no-ippo)
+New graduate in 2028
 
-## Contact me
-- 📫 Email: shuaibtcm@gmail.com
-- 💼 Linkedin: www.linkedin.com/in/chenming-eric-tao
-- 👨‍💻 LeetCode: https://leetcode.com/u/DarGFFx9Sw/
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-## Git Status
-
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
-</div>
-
-  ## 💻 Technical Skills:</div>
+## 💻 Technical Skills:</div>
 
 ###### Languages & Syntax:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
@@ -63,6 +44,24 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
+
+
+![](https://komarev.com/ghpvc/?username=hajime-no-ippo)
+
+## Git Status
+
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
+</div>
+
+
+## Contact me
+- 📫 Email: shuaibtcm@gmail.com
+- 💼 Linkedin: www.linkedin.com/in/chenming-eric-tao
+- 👨‍💻 LeetCode: https://leetcode.com/u/DarGFFx9Sw/
+
+
+
 
 
 
