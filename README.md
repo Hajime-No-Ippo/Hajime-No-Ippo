@@ -18,9 +18,12 @@ New graduate in 2028
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![R](https://img.shields.io/badge/R-3f7ed1?style=for-the-badge&logo=R&logoColor=white)&nbsp;
 ![Rust](https://img.shields.io/badge/Rust-b35a2b?style=for-the-badge&logo=Rust&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/C%2B%2B-dbc93d?style=for-the-badge&logo=C%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-dbc93d?style=for-the-badge&logo=C%2B%2B&logoColor=white)&nbsp;
 
-
+###### Data Science & Machine Learning:
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-ff5800?style=for-the-badge&logo=Jupyter&logoColor=white)&nbsp;
+![Numpy](https://img.shields.io/badge/Numpy-179be8?style=for-the-badge&logo=Numpy&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=Pandas&logoColor=white)&nbsp;
 
 ###### Frontend Development:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -49,7 +52,6 @@ New graduate in 2028
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
-
 
 ![](https://komarev.com/ghpvc/?username=hajime-no-ippo)
 
