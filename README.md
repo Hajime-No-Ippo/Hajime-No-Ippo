@@ -54,11 +54,9 @@ New graduate in 2028
 
 ![](https://komarev.com/ghpvc/?username=hajime-no-ippo)
 
-## Git Status
-
-<div align="center">
+<!-- <div align="center">
   <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
-</div>
+</div> -->
 
 
 ## Contact me
