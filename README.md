@@ -16,7 +16,6 @@ New graduate in 2028
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![R](https://img.shields.io/badge/R-3f7ed1?style=for-the-badge&logo=R&logoColor=white)&nbsp;
 ![Rust](https://img.shields.io/badge/Rust-b35a2b?style=for-the-badge&logo=Rust&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-dbc93d?style=for-the-badge&logo=C%2B%2B&logoColor=white)&nbsp;
 
@@ -49,8 +48,6 @@ New graduate in 2028
 
 ###### Design & Prototyping:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)&nbsp;
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 
 ![](https://komarev.com/ghpvc/?username=hajime-no-ippo)
 
